@@ -1,6 +1,6 @@
 # ℹ Customizing your HUD
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 Your HUD menu can be accessed by pressing the "I" key on your keyboard. It will bring up the menu below. In this menu, you can customer your HUD to your preferences. Some changes you can make:
 

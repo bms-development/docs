@@ -14,13 +14,14 @@
     * [💢 Common Commands](guides/gameplay/chat/common-commands.md)
     * [💻 Keybinds](guides/gameplay/chat/keybinds.md)
     * [📖 In City Lingo](guides/gameplay/chat/in-city-lingo.md)
+  * [📱 Phone](guides/gameplay/phone.md)
 * [🧍 Character Creation & Modifications](guides/character-creation-and-modifications.md)
 
 ## getting started
 
 * [🚶 Getting Around Town](getting-started/getting-around-town.md)
 * [💸 Making Money](getting-started/making-money/README.md)
-  * [🏛 City Hall](getting-started/making-money/city-hall.md)
+  * [🏛 Job Center](getting-started/making-money/job-center.md)
   * [✏ Freelancing](getting-started/making-money/freelancing.md)
   * [⚠ Illegal Activities](getting-started/making-money/illegal-activities.md)
 
@@ -48,3 +49,8 @@
 * [🏠 Real Estate](government-services-positions/real-estate/README.md)
   * [🕴 How to become an agent](government-services-positions/real-estate/how-to-become-an-agent.md)
   * [🏡 How to buy real estate](government-services-positions/real-estate/how-to-buy-real-estate.md)
+
+## 👨💻 Changelogs
+
+* [v.1.0.0](changelogs/v.1.0.0/README.md)
+  * [What's New?](changelogs/v.1.0.0/whats-new.md)
