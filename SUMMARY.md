@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🌚 Welcome to our community!](README.md)
+* [🌚 Guides & Updates](README.md)
 * [Community Rules & Guidelines](https://docs.google.com/document/d/19K45qDZv3L\_zSQYS9fckNn\_Km5iKhBCLYptKl--WWas)
 
 ## Guides
