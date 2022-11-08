@@ -1,5 +1,7 @@
 # What's New?
 
+<figure><img src="https://i.imgur.com/zCYK1Fn.png" alt=""><figcaption></figcaption></figure>
+
 ### New Character Selection
 
 Create and manage your characters in this slick new UI with changes to prevent accidental character deletion and smoother transitions to making a new character. Character slots have also increased from <mark style="color:blue;">5 slots to 6 slots available.</mark>
