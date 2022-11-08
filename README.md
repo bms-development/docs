@@ -1,4 +1,6 @@
 ---
+cover: .gitbook/assets/discordbg.png
+coverY: 0
 layout: landing
 ---
 
