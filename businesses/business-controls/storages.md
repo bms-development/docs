@@ -1,5 +1,5 @@
 ---
-description: talk about getting supplies, storages, holding, registers
+description: TBA
 ---
 
 # 📦 Storages
