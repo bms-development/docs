@@ -49,3 +49,10 @@ Criminal activity is <mark style="color:blue;">not advised</mark> while working 
 ### Updated Gabz
 
 This version contains the last three months of Gabz releases including the gang club houses, vespucci shops, and other maps.&#x20;
+
+
+
+### Police Restrictions on Criminal Activity
+
+A few months ago during low counts of police roleplay, we decided to remove police limits on most crime. While this benefitted criminals and those who love to grind, it ultimately killed police roleplay. These limits will be returning and increasing for heists. It's unfair to grind out heists with little/no risk of getting caught. This is a step to bring back roleplay in our city.
+
