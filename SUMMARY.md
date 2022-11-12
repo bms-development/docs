@@ -54,3 +54,4 @@
 
 * [v.1.0.0](changelogs/v.1.0.0/README.md)
   * [What's New?](changelogs/v.1.0.0/whats-new.md)
+* [v.1.0.1](changelogs/v.1.0.1.md)
