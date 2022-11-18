@@ -5,7 +5,7 @@
 
 ## Guides
 
-* [✔️ Verified Role](guides/verified-role.md)
+* [✔️ Registered Role](guides/registered-role.md)
 * [🎮 Gameplay](guides/gameplay/README.md)
   * [👁 Third Eye](guides/gameplay/third-eye.md)
   * [🔵 Radial Menu](guides/gameplay/radial-menu.md)
