@@ -10,6 +10,6 @@ Welcome to BLUE MOON STATE, the following documents will help guide you to succe
 
 
 
-Connect to our server directly with rp.bluemoonstate.net or \[clicking this link]\(cfx.re/join/8gz9x4).
+Connect to our server directly with `rp.bluemoonstate.net` or `cfx.re/join/8gz9x4`
 
 <figure><img src="https://i.imgur.com/nMo5WY1.png" alt=""><figcaption></figcaption></figure>
