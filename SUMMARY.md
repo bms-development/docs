@@ -58,4 +58,5 @@
   * [v.1.01a](changelogs/v.1.0.1/v.1.01a.md)
 * [v1.0.2](changelogs/v1.0.2/README.md)
   * [v.1.0.2a](changelogs/v1.0.2/v.1.0.2a.md)
-* [v.1.0.3](changelogs/v.1.0.3.md)
+* [v.1.0.3](changelogs/v.1.0.3/README.md)
+  * [v.1.0.3a](changelogs/v.1.0.3/v.1.0.3a.md)
