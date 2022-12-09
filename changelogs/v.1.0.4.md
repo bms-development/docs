@@ -12,7 +12,7 @@ description: Christmas, Clothing, and More!
 
 ## Adjustments
 
-* The casino is proving to be a very popular spot, <mark style="color:red;">let's change that</mark> (kidding). Horse betting time between races has been increased from 5 minutes to 20 minutes. <mark style="color:blue;">Minimum bet is now $1000</mark> and <mark style="color:blue;">maximum is $1500</mark>.&#x20;
+* The casino is proving to be a very popular spot, <mark style="color:red;">let's change that</mark> (kidding). Horse betting time between races has been increased from 5 minutes to 20 minutes. <mark style="color:blue;">Minimum bet is now $1000</mark> and <mark style="color:blue;">maximum is $10000 for the main event and 10-1500 for solos</mark>.&#x20;
 * Trunk weights have been updated to realistic amounts due to a bug introduced a few weeks ago granting unlimited space.&#x20;
 * Trailers have been added for sale at P.O.Ps.
 
