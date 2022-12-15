@@ -62,3 +62,4 @@
   * [v.1.0.3a](changelogs/v.1.0.3/v.1.0.3a.md)
 * [v.1.0.4](changelogs/v.1.0.4/README.md)
   * [v.1.0.4a](changelogs/v.1.0.4/v.1.0.4a.md)
+  * [v.1.0.4b](changelogs/v.1.0.4/v.1.0.4b.md)
