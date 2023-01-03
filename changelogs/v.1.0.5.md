@@ -17,6 +17,7 @@ Bug Fixes
 
 * Added "Integrity Parking" public parking space next to the apartments.
 * Moved Jerrys Imports garage.
+* Fixed an issue with Jerrys Imports car returns.
 * Move P.O.Ps loading area for Accurate Arms.
 * Added an additional doorlock for a private house.
 * Updated the phone, full patch notes from the developer attached.
