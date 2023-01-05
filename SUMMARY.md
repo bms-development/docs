@@ -14,7 +14,7 @@
     * [💢 Common Commands](guides/gameplay/chat/common-commands.md)
     * [💻 Keybinds](guides/gameplay/chat/keybinds.md)
     * [📖 In City Lingo](guides/gameplay/chat/in-city-lingo.md)
-  * [📱 Phone](guides/gameplay/phone.md)
+  * [Phone](guides/gameplay/phone.md)
 * [🧍 Character Creation & Modifications](guides/character-creation-and-modifications.md)
 
 ## getting started
@@ -29,7 +29,7 @@
 
 * [💰 Entrepreneurship](businesses/entrepreneurship.md)
 * [🏙 Business Controls](businesses/business-controls/README.md)
-  * [👨💼 Employees](businesses/business-controls/employees.md)
+  * [👨💼 👨💼 Employees](businesses/business-controls/employees.md)
   * [💵 Register](businesses/business-controls/register.md)
   * [📦 Storages](businesses/business-controls/storages.md)
 
@@ -37,20 +37,20 @@
 
 * [⚖ Department of Justice](government-services-positions/department-of-justice/README.md)
   * [Penal Code](https://docs.google.com/spreadsheets/d/1s41z9\_6mqYPvCkE5VPzTuAE4MW\_pSZj7b2YqT0JLDDc/)
-  * [👩⚖ Contacting the DOJ](government-services-positions/department-of-justice/contacting-the-doj.md)
+  * [👩⚖ 👩⚖ Contacting the DOJ](government-services-positions/department-of-justice/contacting-the-doj.md)
   * [‼ Your right to a lawyer](government-services-positions/department-of-justice/your-right-to-a-lawyer.md)
   * [📜 Applications](government-services-positions/department-of-justice/applications.md)
 * [🩺 EMS](government-services-positions/ems/README.md)
-  * [👨⚕ What they do](government-services-positions/ems/what-they-do.md)
+  * [👨⚕ 👨⚕ What they do](government-services-positions/ems/what-they-do.md)
   * [☑ Applications](government-services-positions/ems/applications.md)
 * [🚔 Police](government-services-positions/police/README.md)
-  * [👮♀ What they do](government-services-positions/police/what-they-do.md)
+  * [👮♀ 👮♀ What they do](government-services-positions/police/what-they-do.md)
   * [✅ Applications](government-services-positions/police/applications.md)
 * [🏠 Real Estate](government-services-positions/real-estate/README.md)
   * [🕴 How to become an agent](government-services-positions/real-estate/how-to-become-an-agent.md)
   * [🏡 How to buy real estate](government-services-positions/real-estate/how-to-buy-real-estate.md)
 
-## 👨💻 Changelogs
+## 👨💻 👨💻 Changelogs
 
 * [v.1.0.0](changelogs/v.1.0.0/README.md)
   * [What's New?](changelogs/v.1.0.0/whats-new.md)
@@ -64,3 +64,4 @@
   * [v.1.0.4a](changelogs/v.1.0.4/v.1.0.4a.md)
   * [v.1.0.4b](changelogs/v.1.0.4/v.1.0.4b.md)
 * [v.1.0.5](changelogs/v.1.0.5.md)
+* [v.1.0.5a](changelogs/v.1.0.5a.md)
